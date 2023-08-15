@@ -1,0 +1,15 @@
+C:\Users\IdeaPad\OneDrive\Documenti\MyClientFile\bin\Debug\net7.0\MyClientFile.exe
+C:\Users\IdeaPad\OneDrive\Documenti\MyClientFile\bin\Debug\net7.0\MyClientFile.deps.json
+C:\Users\IdeaPad\OneDrive\Documenti\MyClientFile\bin\Debug\net7.0\MyClientFile.runtimeconfig.json
+C:\Users\IdeaPad\OneDrive\Documenti\MyClientFile\bin\Debug\net7.0\MyClientFile.dll
+C:\Users\IdeaPad\OneDrive\Documenti\MyClientFile\bin\Debug\net7.0\MyClientFile.pdb
+C:\Users\IdeaPad\OneDrive\Documenti\MyClientFile\obj\Debug\net7.0\MyClientFile.csproj.AssemblyReference.cache
+C:\Users\IdeaPad\OneDrive\Documenti\MyClientFile\obj\Debug\net7.0\MyClientFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IdeaPad\OneDrive\Documenti\MyClientFile\obj\Debug\net7.0\MyClientFile.AssemblyInfoInputs.cache
+C:\Users\IdeaPad\OneDrive\Documenti\MyClientFile\obj\Debug\net7.0\MyClientFile.AssemblyInfo.cs
+C:\Users\IdeaPad\OneDrive\Documenti\MyClientFile\obj\Debug\net7.0\MyClientFile.csproj.CoreCompileInputs.cache
+C:\Users\IdeaPad\OneDrive\Documenti\MyClientFile\obj\Debug\net7.0\MyClientFile.dll
+C:\Users\IdeaPad\OneDrive\Documenti\MyClientFile\obj\Debug\net7.0\refint\MyClientFile.dll
+C:\Users\IdeaPad\OneDrive\Documenti\MyClientFile\obj\Debug\net7.0\MyClientFile.pdb
+C:\Users\IdeaPad\OneDrive\Documenti\MyClientFile\obj\Debug\net7.0\MyClientFile.genruntimeconfig.cache
+C:\Users\IdeaPad\OneDrive\Documenti\MyClientFile\obj\Debug\net7.0\ref\MyClientFile.dll
