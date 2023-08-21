@@ -6,7 +6,7 @@ using System.Net.Sockets;
 using System.Threading;
 using System.Collections.Generic;
 
-public class Server
+public class Program
 {
     static List<TcpClient> clients = new List<TcpClient>();
     static TcpListener listener;
