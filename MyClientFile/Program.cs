@@ -3,7 +3,7 @@ using System;
 using System.IO;
 using System.Net.Sockets;
 
-class Client
+public class Program
 {
     static void Main()
     {
