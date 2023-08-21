@@ -5,7 +5,7 @@ using System.Net.Sockets;
 
 public class Program
 {
-    static void Main()
+    public static void Main()
     {
         string serverIp = "192.168.1.114"; // Indirizzo IP del server
         int serverPort = 5550;
